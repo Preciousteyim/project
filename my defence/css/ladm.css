@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+form{
+  margin: 5% auto;
+  width: 40%;
+  padding: 20px;
+  background-color:rgb(229, 243, 248);
+  border-radius: 15px;
+
+}
+h2{
+    text-align: center;
+    margin: 5%;
+}
+input{
+    margin: 3px;
+    padding: 3px;
+    width: 100%;
+    border-radius: 10px;
+    background-color:rgb(229, 243, 248);
+}
+button{
+  color: white;
+  background-color: rgba(0, 132, 255, 0.97);
+  border-radius: 10px;
+  width: 50%;
+  margin: 3%;
+  padding: 1%;
+}
